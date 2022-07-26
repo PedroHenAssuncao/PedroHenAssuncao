@@ -11,6 +11,8 @@
 #### Formação:
 - Ensino médio & técnico em Desenvolvimento de Sistemas, no Colégio Técnico da UFMG.
 
+<br>
+
 <div align="center">
   <a href="https://github.com/PedroHenAssuncao">
     <img height="170em" width = "400" src="https://github-readme-stats.vercel.app/api?username=PedroHenAssuncao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -33,6 +35,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="40" width="52" alt="sqlServer logo"  />
 </div>
 
+<br>
 
 <div align="center"> 
 
