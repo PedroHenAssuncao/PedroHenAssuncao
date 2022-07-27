@@ -15,10 +15,10 @@
 
 <div align="center">
   <a href="https://github.com/PedroHenAssuncao">
-    <img height="170em" width = "400" src="https://github-readme-stats.vercel.app/api?username=PedroHenAssuncao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="170em" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenAssuncao&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="170em" width = "400" src="https://github-readme-stats.vercel.app/api?username=PedroHenAssuncao&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+    <img height="170em" width = "400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenAssuncao&layout=compact&langs_count=7&theme=onedark"/>
     </br>
-    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=PedroHenAssuncao&theme=dracula&date_format=j%20M%5B%20Y%5D"/>
+    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=PedroHenAssuncao&theme=onedark&date_format=j%20M%5B%20Y%5D"/>
   </a>
 </div>
 
