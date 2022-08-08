@@ -3,7 +3,7 @@
 
 <ul>
   <li>Tenho 18 anos</li>
-  <li>Atualmente sou Estagiário em Analise e Desenvolvimento(Back End)</li>
+  <li>Atualmente sou Estagiário em Analise e Desenvolvimento(Full Stack)</li>
   <li>Estudando Python e NodeJs</li>
   <li>Ele/Dele | He/Him</li>
 </ul>
