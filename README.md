@@ -2,13 +2,13 @@
 
 
 <ul>
-  <li>Tenho 18 anos</li>
+  <li>Tenho 19 anos</li>
   <li>Atualmente sou Analista e Desenvolvedor Trainee</li>
-  <li>Estudando Python e NodeJs</li>
   <li>Ele/Dele | He/Him</li>
 </ul>
 
 #### Formação:
+- Cursando Graduação em Sistemas de Informação na PUC - Minas
 - Ensino médio & técnico em Desenvolvimento de Sistemas, no Colégio Técnico da UFMG.
 
 <br>
