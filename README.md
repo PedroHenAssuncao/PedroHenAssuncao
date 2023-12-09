@@ -2,9 +2,8 @@
 
 
 <ul>
-  <li>Tenho 19 anos</li>
+  <li>Tenho 20 anos</li>
   <li>Atualmente sou Analista e Desenvolvedor Junior</li>
-  <li>Ele/Dele | He/Him</li>
 </ul>
 
 #### Formação:
